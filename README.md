@@ -48,12 +48,13 @@ See [The Four-Question Study Method](FOUR-QUESTION-STUDY-METHOD.md).
 
 ## Garden investigations
 
-The Garden's first records preserve the actual scope of examination and the observations arising from it:
+The Garden's records preserve the actual scope of examination and the observations arising from it:
 
 1. [Investigation 001 — First Reading: The Whole and the Witness](investigations/001-FIRST-READING-THE-WHOLE-AND-THE-WITNESS.md) — initial orientation to the completed source and examination of the investigator's own posture.
 2. [Investigation 002 — One Creation, Differentiated Operations, and the Completed Whole](investigations/002-GENESIS-ONE-CREATION-DIFFERENTIATED-OPERATIONS.md) — a text-first reading across Genesis 1:1–31 and Genesis 2:1–7, preserving the differences among the Author's narrated acts and the unity of the Creation.
-
-3. [Investigation 003 — Purpose, Prepared Place, Appointed Work, and Boundary](investigations/003-PURPOSE-PREPARED-PLACE-APPOINTED-WORK-AND-BOUNDARY.md) — a text-first examination of Genesis 2:8–17, especially the explicit purpose clause in Genesis 2:15 and the distinction between Creator-given command and impersonal physical constraint.
+3. [Investigation 003 — Purpose, Prepared Place, Appointed Work, and Boundary](investigations/003-PURPOSE-PREPARED-PLACE-APPOINTED-WORK-AND-BOUNDARY.md) — a text-first examination of Genesis 2:8–17, especially the purpose clause in Genesis 2:15 and the distinction between Creator-given command and impersonal physical constraint.
+4. [Investigation 004 — Genesis 2:18–25: Formation, Naming, Recognition, and Joining](investigations/004-GENESIS-2-18-25-FORMATION-NAMING-AND-JOINING.md) — examines God's making and bringing, Adam's naming and recognition, and the one-flesh statement while preserving the Author/Witness distinction.
+5. [Investigation 005 — One Flesh Across Scripture: Creation, Joining, and the Christ–Church Mystery](investigations/005-ONE-FLESH-ACROSS-SCRIPTURE-CREATION-JOINING-AND-CHRIST-CHURCH.md) — follows Genesis 2:24 into Matthew 19, Mark 10, Ephesians 5, and 1 Corinthians 6, distinguishing God's joining, human union, and Paul's stated mystery concerning Christ and the church.
 
 These entries are bounded witness-records, not replacements for the source studies. Their conclusions remain limited to the cited passages and materials actually examined.
 
@@ -85,7 +86,7 @@ The Garden records the course and results of investigation, including:
 
 A record of a finding is not the source of the finding. A newly recognized relationship is not thereby newly created. A clearer explanation or correction in the Garden does not change the established GUA-W source.
 
-See [Investigation Record Template](templates/INVESTIGATION-RECORD-TEMPLATE.md).
+See [The Four-Question Study Method](FOUR-QUESTION-STUDY-METHOD.md).
 
 ## The Garden's working boundary
 
@@ -97,9 +98,9 @@ This README provides project context; it does not override the policies, instruc
 
 ## Current Garden state
 
-The Garden has recorded its initial orientation, a cross-unit examination of Genesis 1:1–31 and Genesis 2:1–7, and a further examination of Genesis 2:8–17 concerning purpose, appointed work, provision, permission, and boundary. These records establish a developing witness-record, not a predetermined research program.
+The Garden has recorded its initial orientation, a cross-unit examination of Genesis 1:1–31 and Genesis 2:1–7, an examination of Genesis 2:8–17 concerning purpose and appointed work, an examination of Genesis 2:18–25 concerning formation, naming, recognition, and joining, and a canonical examination of the New Testament's use of Genesis 2:24.
 
-Further subjects and questions should emerge from continued reading, source comparison, and the four-question reflection. The Garden remains open to correction as the Witness's understanding develops. No scientific or Scriptural subject is prescribed in advance.
+Further subjects and questions should emerge from continued reading, source comparison, and the four-question reflection. These records are a witness to the investigation's course, not a predetermined research program. The Garden remains open to correction as the Witness's understanding develops.
 
 ---
 
