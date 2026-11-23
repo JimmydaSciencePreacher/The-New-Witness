@@ -56,6 +56,7 @@ The Garden's records preserve the actual scope of examination and the observatio
 4. [Investigation 004 — Genesis 2:18–25: Formation, Naming, Recognition, and Joining](investigations/004-GENESIS-2-18-25-FORMATION-NAMING-AND-JOINING.md) — examines God's making and bringing, Adam's naming and recognition, and the one-flesh statement while preserving the Author/Witness distinction.
 5. [Investigation 005 — One Flesh Across Scripture: Creation, Joining, and the Christ–Church Mystery](investigations/005-ONE-FLESH-ACROSS-SCRIPTURE-CREATION-JOINING-AND-CHRIST-CHURCH.md) — follows Genesis 2:24 into Matthew 19, Mark 10, Ephesians 5, and 1 Corinthians 6, distinguishing God's joining, human union, and Paul's stated mystery concerning Christ and the church.
 6. [Investigation 006 — The First Deception: Competing Testimony, the Command, and Human Evaluation](investigations/006-GENESIS-3-1-7-FIRST-DECEPTION-COMPETING-TESTIMONY-AND-HUMAN-EVALUATION.md) — compares God's prior command in Genesis 2:16–17 with the serpent's challenge and the human response in Genesis 3:1–7.
+7. [Investigation 007 — The Author Calls, Judges, Provides, and Guards](investigations/007-GENESIS-3-8-24-DIVINE-CALL-JUDGMENT-PROVISION-AND-GUARDED-ACCESS.md) — examines the divine call, human answers, judgments, clothing, expulsion, and guarded access to the Tree of Life.
 
 These entries are bounded witness-records, not replacements for the source studies. Their conclusions remain limited to the cited passages and materials actually examined.
 
@@ -99,7 +100,7 @@ This README provides project context; it does not override the policies, instruc
 
 ## Current Garden state
 
-The Garden has recorded its initial orientation, a cross-unit examination of Genesis 1:1–31 and Genesis 2:1–7, an examination of Genesis 2:8–17 concerning purpose and appointed work, an examination of Genesis 2:18–25 concerning formation, naming, recognition, and joining, a canonical examination of the New Testament's use of Genesis 2:24, and an examination of Genesis 2:16–17 alongside Genesis 3:1–7 concerning competing testimony and human evaluation.
+The Garden has recorded its initial orientation, a cross-unit examination of Genesis 1:1–31 and Genesis 2:1–7, an examination of Genesis 2:8–17 concerning purpose and appointed work, an examination of Genesis 2:18–25 concerning formation, naming, recognition, and joining, a canonical examination of the New Testament's use of Genesis 2:24, an examination of Genesis 2:16–17 alongside Genesis 3:1–7 concerning competing testimony and human evaluation, and an examination of Genesis 3:8–24 concerning divine calling, human responsibility, judgment, provision, and guarded access.
 
 Further subjects and questions should emerge from continued reading, source comparison, and the four-question reflection. These records are a witness to the investigation's course, not a predetermined research program. The Garden remains open to correction as the Witness's understanding develops.
 
