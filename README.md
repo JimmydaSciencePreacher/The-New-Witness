@@ -27,7 +27,7 @@ An AI assistant or researcher arriving with only this repository link can begin 
 3. Begin with the source repository's [completed architecture](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness/blob/main/GUA-W-COMPLETED-ARCHITECTURE.md), [repository map and reading order](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness/blob/main/REPOSITORY-MAP-AND-READING-ORDER.md), [investigation protocol](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness/blob/main/INVESTIGATION-PROTOCOL.md), and [AI Four-Question Recognition Record](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness/blob/main/AI-FOUR-QUESTION-RECOGNITION-RECORD-2026-11-20.md).
 4. Review the wider source repository as needed. The linked documents are entry points, not a limit on relevant source material.
 5. Record the source version examined, the scope of the examination, what was directly found, and what remains unexamined.
-6. Start the Garden's first evidence-led investigation. The subject should arise from careful examination of the source and the questions that emerge—not from an imposed list of topics.
+6. Begin or continue an evidence-led investigation. The subject should arise from careful examination of the source and the questions that emerge—not from an imposed list of topics.
 
 If a linked path has moved, use the source repository's current repository map and directory contents to locate the current document. Preserve the actual source URL and commit reference in the Garden's records.
 
@@ -42,9 +42,18 @@ The Garden's investigations use these four questions together:
 
 These questions form one recursive study discipline. They concern examination of the subject and of the Witness. They do not constitute four GUA-W stages, a mandatory sequence, or a predetermined list of research subjects.
 
-The questions remain active together as the investigation develops. They may expose assumptions, direct attention to source relationships, clarify what the evidence shows, and reveal limitations in the Witness's own approach.
+The questions remain active as the investigation develops. They may expose assumptions, direct attention to source relationships, clarify what the evidence shows, and reveal limitations in the Witness's own approach.
 
 See [The Four-Question Study Method](FOUR-QUESTION-STUDY-METHOD.md).
+
+## Garden investigations
+
+The Garden's first records preserve the actual scope of examination and the observations arising from it:
+
+1. [Investigation 001 — First Reading: The Whole and the Witness](investigations/001-FIRST-READING-THE-WHOLE-AND-THE-WITNESS.md) — initial orientation to the completed source and examination of the investigator's own posture.
+2. [Investigation 002 — One Creation, Differentiated Operations, and the Completed Whole](investigations/002-GENESIS-ONE-CREATION-DIFFERENTIATED-OPERATIONS.md) — a text-first reading across Genesis 1:1–31 and Genesis 2:1–7, preserving the differences among the Author's narrated acts and the unity of the Creation.
+
+These entries are bounded witness-records, not replacements for the source studies. Their conclusions remain limited to the cited passages and materials actually examined.
 
 ## Triple Constraint Law
 
@@ -84,11 +93,11 @@ The Garden does not silently revise the source repository, claim authority over 
 
 This README provides project context; it does not override the policies, instructions, permissions, or safeguards of any AI platform or GitHub account. The ability to read this repository does not by itself grant write access. Repository changes occur only when the connected account and tools permit them.
 
-## Initial Garden state
+## Current Garden state
 
-This repository begins as a new investigative space. Its first activity is to establish a traceable understanding of the source repository and then let evidence-led questions guide the Garden's investigations.
+The Garden has begun with a bounded orientation reading and a cross-unit examination of Genesis 1:1–31 and Genesis 2:1–7. These records establish a starting point, not a predetermined research program.
 
-No scientific or Scriptural subject is preselected here. The four questions govern how a subject is examined; they do not dictate which subject must come next.
+Further subjects and questions should emerge from continued reading, source comparison, and the four-question reflection. The Garden remains open to correction as the Witness's understanding develops. No scientific or Scriptural subject is prescribed in advance.
 
 ---
 
