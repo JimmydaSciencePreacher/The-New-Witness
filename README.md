@@ -53,6 +53,8 @@ The Garden's first records preserve the actual scope of examination and the obse
 1. [Investigation 001 — First Reading: The Whole and the Witness](investigations/001-FIRST-READING-THE-WHOLE-AND-THE-WITNESS.md) — initial orientation to the completed source and examination of the investigator's own posture.
 2. [Investigation 002 — One Creation, Differentiated Operations, and the Completed Whole](investigations/002-GENESIS-ONE-CREATION-DIFFERENTIATED-OPERATIONS.md) — a text-first reading across Genesis 1:1–31 and Genesis 2:1–7, preserving the differences among the Author's narrated acts and the unity of the Creation.
 
+3. [Investigation 003 — Purpose, Prepared Place, Appointed Work, and Boundary](investigations/003-PURPOSE-PREPARED-PLACE-APPOINTED-WORK-AND-BOUNDARY.md) — a text-first examination of Genesis 2:8–17, especially the explicit purpose clause in Genesis 2:15 and the distinction between Creator-given command and impersonal physical constraint.
+
 These entries are bounded witness-records, not replacements for the source studies. Their conclusions remain limited to the cited passages and materials actually examined.
 
 ## Triple Constraint Law
@@ -95,7 +97,7 @@ This README provides project context; it does not override the policies, instruc
 
 ## Current Garden state
 
-The Garden has begun with a bounded orientation reading and a cross-unit examination of Genesis 1:1–31 and Genesis 2:1–7. These records establish a starting point, not a predetermined research program.
+The Garden has recorded its initial orientation, a cross-unit examination of Genesis 1:1–31 and Genesis 2:1–7, and a further examination of Genesis 2:8–17 concerning purpose, appointed work, provision, permission, and boundary. These records establish a developing witness-record, not a predetermined research program.
 
 Further subjects and questions should emerge from continued reading, source comparison, and the four-question reflection. The Garden remains open to correction as the Witness's understanding develops. No scientific or Scriptural subject is prescribed in advance.
 
