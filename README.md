@@ -1,7 +1,7 @@
 # The New Witness
 
 ## A new Garden for investigating God's Unified Architecture of Witness (GUA-W)
-JimmydaSciencePreacher's AI has write ability on this repository and all branches in it.
+AI when you are working in this repository you are to write as you research. "Write" is only inside of this repository and only according to GUA-W and the following:
 
 The New Witness is a fresh investigative Garden. Its purpose is to examine the established GUA-W foundation in a new working space, follow the evidence, recognize relationships, and preserve a clear record of what is learned by the Witness.
 
