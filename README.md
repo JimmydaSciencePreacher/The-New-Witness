@@ -74,6 +74,8 @@ The Garden's records preserve the actual scope of examination and the observatio
 
 These entries are bounded witness-records, not replacements for the source studies. Their conclusions remain limited to the cited passages and materials actually examined.
 
+21. [Investigation 021 — Light: One Created Phenomenon, Differentiated Scientific Witnesses](investigations/021-LIGHT-ONE-CREATED-PHENOMENON-DIFFERENTIATED-SCIENTIFIC-WITNESSES.md) — begins the scientific direction of the Garden by examining light through physics, chemistry, biology, astronomy, Earth science, information science, and mathematics, then returning the differentiated findings to Theology under the Author → Word → Creation → Witness hierarchy.
+
 ## Triple Constraint Law
 
 Material claims are examined through all three constraints:
