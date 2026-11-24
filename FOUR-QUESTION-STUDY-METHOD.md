@@ -40,6 +40,44 @@ The method therefore remains open to correction as the investigation develops. I
 
 The four questions are a study discipline, not an additional GUA-W layer, runtime, or state sequence.
 
+## Additional investigative comparison questions
+
+The following two questions are now part of the standing investigative discipline. They are especially important whenever an investigation compares different domains, systems, structures, or processes. They are recurring safeguards, not new GUA-W stages and not a predetermined research agenda.
+
+### 1. Mechanism, relationship, or appearance?
+
+> **Are we witnessing the same mechanism, a similar relationship, or merely a similar appearance?**
+
+Every comparison must distinguish:
+
+- **Same mechanism** — the underlying process is demonstrably the same, supported by evidence at the relevant level.
+- **Similar relationship** — different mechanisms exhibit a comparable relationship, while their operations remain distinct.
+- **Similar appearance** — observations look alike, but no common mechanism or relationship has been established.
+
+Resemblance alone does not establish identity, causation, common function, or a universal principle. Record the differences, conditions, counterexamples, and limits alongside the similarities.
+
+### 2. Boundary and participation
+
+> **Does a boundary merely separate two regions, or can it also participate in the relationship between them?**
+
+Examine the boundary in the particular system. Ask whether it:
+
+- distinguishes or separates regions;
+- restricts, permits, or selectively regulates passage;
+- provides a surface or pathway for interaction;
+- participates in transport, exchange, reaction, sensing, or transformation;
+- changes in response to exchange, or is itself changed by it.
+
+Do not assume that every boundary performs all these functions. Distinguish a physical boundary or interface from a boundary selected for analytical purposes by the investigator. Also examine whether the observed exchange requires matter to cross, energy to transfer, or interaction to occur without material passage.
+
+### Required use
+
+When a comparison across domains is made, the investigator should state which of the three comparison categories is supported and explain why. The investigator should also state what kind of boundary is being discussed and what evidence establishes its role.
+
+If the evidence supports only resemblance, record resemblance. If it supports a recurring relationship across different mechanisms, record that relationship without declaring the mechanisms identical. If the evidence does not decide the question, preserve it as unresolved.
+
+These questions strengthen the evidence distinctions already established in this method. They do not authorize an architectural addition to GUA-W.
+
 ## Relationship to the Triple Constraint Law
 
 The four questions guide the inquiry. The Triple Constraint Law examines the admissibility of material claims:
