@@ -46,6 +46,8 @@ These questions form one recursive study discipline. They concern examination of
 The questions remain active as the investigation develops. They may expose assumptions, direct attention to source relationships, clarify what the evidence shows, and reveal limitations in the Witness's own approach.
 
 See [The Four-Question Study Method](FOUR-QUESTION-STUDY-METHOD.md).
+The standing investigative discipline also includes two recurring comparison questions: **Are we witnessing the same mechanism, a similar relationship, or merely a similar appearance?** and **Does a boundary merely separate two regions, or can it also participate in the relationship between them?** See [The Four-Question Study Method](FOUR-QUESTION-STUDY-METHOD.md).
+
 
 ## Garden investigations
 
@@ -91,6 +93,7 @@ These entries are bounded witness-records, not replacements for the source studi
 35. [Investigation 035 — Stability, Resilience, Recovery, and the Response to Disturbance](investigations/035-STABILITY-RESILIENCE-RECOVERY-AND-RESPONSE-TO-DISTURBANCE.md) — examines resistance, resilience, recovery, robustness, feedback, adaptation, thresholds, regime shifts, repeated disturbances, cascading failures, and the distinction between scientific persistence and GUA-W Persistence.
 36. [Investigation 036 — Feedback, Regulation, and Control](investigations/036-FEEDBACK-REGULATION-AND-CONTROL.md) — examines open-loop and closed-loop control, negative and positive feedback, feedforward, sensors, signals, set points, homeostasis, distributed regulation, delays, instability, uncertainty, and the distinction between created-system mechanisms and Original Cause.
 37. [Investigation 037 — Signals, Communication, and Coordination](investigations/037-SIGNALS-COMMUNICATION-AND-COORDINATION.md) — examines encoding, modulation, physical carriers, channels, noise, error correction, protocols, networks, cellular and neural signaling, ecological communication, distributed coordination, and the distinctions among signal, information, meaning, interpretation, and the theological Word.
+38. [Investigation 038 — Boundaries, Interfaces, and Exchange Within Creation](investigations/038-BOUNDARIES-INTERFACES-AND-EXCHANGE-WITHIN-CREATION.md) — examines boundaries and interfaces through biological membranes, groundwater movement in porous geological material, and thermal transfer; distinguishes shared relationships from identical mechanisms and tests whether exchange requires material contact.
 
 ## Triple Constraint Law
 
